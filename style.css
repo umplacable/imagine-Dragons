@@ -9,7 +9,8 @@ body
     background-image: url(https://user-images.githubusercontent.com/91782618/146815341-b4ca7662-107c-458a-8c42-2a9b55de1f3a.jpg);
     background-position-x: center;
     background-attachment: fixed;
-    background-size: 115%;
+    background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
 }
 
