@@ -7,7 +7,7 @@
 body
 {
     background-image: url(https://user-images.githubusercontent.com/91782618/146815341-b4ca7662-107c-458a-8c42-2a9b55de1f3a.jpg);
-    background-position-x: center;
+    background-position: top center;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -68,7 +68,7 @@ body
 #enemy
 {
     background-image: url(https://user-images.githubusercontent.com/91782618/151762694-08f85fac-b539-475b-b1d8-1aac74233420.png);
-    background-position-x: center;
+    background-position: top center;
     background-attachment: fixed;
     background-size: cover;
 }
